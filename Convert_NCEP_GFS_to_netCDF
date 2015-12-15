@@ -1,0 +1,6 @@
+How to convert NCEP GFS to netCDF format?
+(1) Download wgrib2 utilies tools.
+(2) Install it
+(3) Set the environment for wgrib2
+(4) Usage :
+> wgrib2 gfs.t12z.pgrb2full.0p50.f000 -netcdf output.nc
