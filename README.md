@@ -1,4 +1,4 @@
-#  Ocean Modeling (Ver.1.0)                                              
+#  Ocean Modeling Numerical Skill and Algorithm                                        
       Created: S.H.Liu          
       Update: 2015-12-15       
 
