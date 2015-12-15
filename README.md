@@ -1,9 +1,7 @@
-#==========================================================================#
-# <> Ocean Modeling (Ver.1.0)                                              #
-#==========================================================================#
-#                                                Created: S.H.Liu          #
-#                                                 Update: 2015-12-15       #
-#==========================================================================#
+# <> Ocean Modeling (Ver.1.0)                                              
+      Created: S.H.Liu          
+      Update: 2015-12-15       
+#------------------------------------------------------------------------------
 Description : 
 1. This program is used for building Ocean model's  essential program skill.
    It including 2D filter, numerical approach, interpolating skill, and 
