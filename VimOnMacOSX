@@ -1,0 +1,12 @@
+   1 set number          "開啓行數的數字"
+   2 set ruler           "在螢幕右下方，顯示目前游標位置資訊"                   
+   3 set cursorline      "啟動行的游標線顯示"
+   4 set expandtab       "使用空白鍵自動對齊到Tab鍵上" 
+   5 set tabstop=7       "自訂縮排的位元數"
+   6 set shiftwidth=7
+   7 set foldenable      "摺疊"
+   8 set foldmethod=indent
+   9 set foldcolumn=1
+  10 set foldlevel=5
+  11 set hlsearch        "用反白顯示搜尋字"
+  12 set mouse=v         "使滑鼠可以作用(MacOSX要先安裝MouseTerm)"
